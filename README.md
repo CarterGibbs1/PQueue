@@ -12,4 +12,4 @@ time to increment priority is how many time slices it takes for a process to inc
 simulation time is how long the simulation runs
 processArrival rate is the probability for a process to be created. This should be a boolean from 0 exclusive to 1 inclusive.
 
-  
+This assignment recieved a 100% (A).
